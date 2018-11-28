@@ -3,12 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="993f5f0e-abbf-423d-ac68-caf5d9b90e48" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/gallery-1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/gallery-1.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/gallery-2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/gallery-2.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/gallery-3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/gallery-3.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/gallery-4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/gallery-4.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/gallery-5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/gallery-6.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/gallery-6.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/gallery-7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/gallery-8.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/gallery-8.jpg" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -46,8 +42,13 @@
           <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
-      <file leaf-file-name="gallery-3.jpg" pinned="false" current-in-tab="true">
+      <file leaf-file-name="gallery-3.jpg" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/images/gallery-3.jpg">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file leaf-file-name="about.jpg" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/images/about.jpg">
           <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
@@ -142,12 +143,12 @@
       <workItem from="1543143562972" duration="763000" />
       <workItem from="1543148969037" duration="747000" />
       <workItem from="1543341372151" duration="250000" />
-      <workItem from="1543386953418" duration="1029000" />
+      <workItem from="1543386953418" duration="1352000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2789000" />
+    <option name="totallyTimeSpent" value="3112000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -234,6 +235,9 @@
       <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/images/gallery-3.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/about.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
   </component>
