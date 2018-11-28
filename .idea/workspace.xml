@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="993f5f0e-abbf-423d-ac68-caf5d9b90e48" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/images/gallery-10.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/gallery-10.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/gallery-11.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/gallery-11.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/gallery-9.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/gallery-9.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-    </list>
+    <list default="true" id="993f5f0e-abbf-423d-ac68-caf5d9b90e48" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -34,23 +29,24 @@
           <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
+      <file leaf-file-name="cover_img_1.jpg" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/images/cover_img_1.jpg">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file leaf-file-name="cover_img_2.jpg" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/images/cover_img_2.jpg">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
       <file leaf-file-name="gallery-1.jpg" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/images/gallery-1.jpg">
           <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
-      <file leaf-file-name="insta-4.jpg" pinned="false" current-in-tab="true">
+      <file leaf-file-name="insta-4.jpg" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/images/insta-4.jpg">
           <provider selected="true" editor-type-id="images" />
-        </entry>
-      </file>
-      <file leaf-file-name="blog.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/blog.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="229">
-              <caret line="321" column="30" lean-forward="true" selection-start-line="321" selection-start-column="30" selection-end-line="321" selection-end-column="30" />
-            </state>
-          </provider>
         </entry>
       </file>
       <file leaf-file-name="contact.html" pinned="false" current-in-tab="false">
@@ -62,31 +58,18 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="about.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/about.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="616">
-              <caret line="310" column="18" selection-start-line="310" selection-start-column="18" selection-end-line="310" selection-end-column="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="services.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/services.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="473">
-              <caret line="252" column="18" lean-forward="true" selection-start-line="240" selection-start-column="12" selection-end-line="252" selection-end-column="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="blog-1.jpg" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/images/blog-1.jpg">
           <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
-      <file leaf-file-name="about.jpg" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/images/about.jpg">
+      <file leaf-file-name="loc.png" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/images/loc.png">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file leaf-file-name="loader.gif" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/images/loader.gif">
           <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
@@ -186,15 +169,16 @@
       <workItem from="1543143562972" duration="763000" />
       <workItem from="1543148969037" duration="747000" />
       <workItem from="1543341372151" duration="250000" />
-      <workItem from="1543386953418" duration="3742000" />
+      <workItem from="1543386953418" duration="4201000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5502000" />
+    <option name="totallyTimeSpent" value="5961000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26037195" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -269,9 +253,6 @@
     <entry file="file://$PROJECT_DIR$/images/about.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/images/blog-1.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/gallery.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="293">
@@ -321,13 +302,40 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/images/insta-8.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/images/gallery-1.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/images/insta-4.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/person4.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/person3.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/person2.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/person1.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/blog-1.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/loc.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/loader.gif">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/insta-8.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/cover_img_2.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/cover_img_1.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
   </component>
