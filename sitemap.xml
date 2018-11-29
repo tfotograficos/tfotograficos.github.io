@@ -10,11 +10,6 @@
         <priority>1.00</priority>
     </url>
     <url>
-        <loc>https://tfotograficos.github.io/index.html</loc>
-        <lastmod>2018-11-29T01:50:28+00:00</lastmod>
-        <priority>0.80</priority>
-    </url>
-    <url>
         <loc>https://tfotograficos.github.io/gallery.html</loc>
         <lastmod>2018-11-29T01:50:28+00:00</lastmod>
         <priority>0.80</priority>
