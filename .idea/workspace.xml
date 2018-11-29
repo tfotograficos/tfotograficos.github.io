@@ -2,14 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="993f5f0e-abbf-423d-ac68-caf5d9b90e48" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/css/animate.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/about.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/contact.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/gallery.html" beforeDir="false" afterPath="$PROJECT_DIR$/gallery.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/services.html" beforeDir="false" afterPath="$PROJECT_DIR$/services.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -23,8 +16,8 @@
       <file leaf-file-name="blog.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/blog.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="51" column="25" lean-forward="true" selection-start-line="51" selection-start-column="25" selection-end-line="51" selection-end-column="25" />
+            <state relative-caret-position="175">
+              <caret line="356" column="28" lean-forward="true" selection-start-line="356" selection-start-column="28" selection-end-line="356" selection-end-column="28" />
             </state>
           </provider>
         </entry>
@@ -32,8 +25,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="401">
-              <caret line="179" column="30" selection-start-line="179" selection-start-column="30" selection-end-line="179" selection-end-column="30" />
+            <state relative-caret-position="652">
+              <caret line="272" column="24" lean-forward="true" selection-start-line="258" selection-start-column="20" selection-end-line="272" selection-end-column="24" />
               <folding>
                 <element signature="n#style#0;n#section#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -42,38 +35,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="magnific-popup.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/css/magnific-popup.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret selection-end-line="367" selection-end-column="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="gallery.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="gallery.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/gallery.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="505">
-              <caret line="72" lean-forward="true" selection-start-line="72" selection-end-line="72" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="about.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/about.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="745">
-              <caret line="348" column="13" selection-start-line="348" selection-start-column="13" selection-end-line="348" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="contact.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/contact.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="745">
-              <caret line="321" column="13" selection-start-line="321" selection-start-column="13" selection-end-line="321" selection-end-column="13" />
+            <state relative-caret-position="426">
+              <caret line="181" column="67" selection-start-line="181" selection-start-column="67" selection-end-line="181" selection-end-column="67" />
             </state>
           </provider>
         </entry>
@@ -101,12 +67,12 @@
       <list>
         <option value="$PROJECT_DIR$/sitemap.xml" />
         <option value="$PROJECT_DIR$/robots.txt" />
-        <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/blog.html" />
         <option value="$PROJECT_DIR$/services.html" />
-        <option value="$PROJECT_DIR$/gallery.html" />
         <option value="$PROJECT_DIR$/contact.html" />
         <option value="$PROJECT_DIR$/about.html" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/blog.html" />
+        <option value="$PROJECT_DIR$/gallery.html" />
       </list>
     </option>
   </component>
@@ -176,12 +142,12 @@
       <workItem from="1543143562972" duration="763000" />
       <workItem from="1543148969037" duration="747000" />
       <workItem from="1543341372151" duration="250000" />
-      <workItem from="1543386953418" duration="14101000" />
+      <workItem from="1543386953418" duration="14669000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15861000" />
+    <option name="totallyTimeSpent" value="16429000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -344,13 +310,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/magnific-popup.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="367" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/js/main.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
@@ -389,31 +348,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/blog.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="51" column="25" lean-forward="true" selection-start-line="51" selection-start-column="25" selection-end-line="51" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gallery.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="505">
-          <caret line="72" lean-forward="true" selection-start-line="72" selection-end-line="72" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="401">
-          <caret line="179" column="30" selection-start-line="179" selection-start-column="30" selection-end-line="179" selection-end-column="30" />
-          <folding>
-            <element signature="n#style#0;n#section#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/contact.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="745">
@@ -425,6 +359,38 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="745">
           <caret line="348" column="13" selection-start-line="348" selection-start-column="13" selection-end-line="348" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/magnific-popup.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="367" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="356" column="28" lean-forward="true" selection-start-line="356" selection-start-column="28" selection-end-line="356" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="652">
+          <caret line="272" column="24" lean-forward="true" selection-start-line="258" selection-start-column="20" selection-end-line="272" selection-end-column="24" />
+          <folding>
+            <element signature="n#style#0;n#section#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gallery.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="426">
+          <caret line="181" column="67" selection-start-line="181" selection-start-column="67" selection-end-line="181" selection-end-column="67" />
         </state>
       </provider>
     </entry>
